@@ -6,7 +6,7 @@ Java Message Queue using Vectors.
 CLASS DEFINITIONS
 ------------------
 
--MessageQueue.jaja - Provides the project with a queue that takes in a 'Message' object
+-MessageQueue.jaja - Provides the framework for a queue that takes in a 'Message' object
 
 -Message.java - The message abstract class. Basically a wrapper for a string. This is the base class for QueryMsg and ReplyMsg classes.
 
