@@ -3,7 +3,7 @@ Message-Queue
 
 Java Message Queue using Vectors.
 
-CLASS DEFINITIONS
+Class Definitions
 ------------------
 
 -MessageQueue.jaja - Provides the framework for a queue that takes in a 'Message' object
